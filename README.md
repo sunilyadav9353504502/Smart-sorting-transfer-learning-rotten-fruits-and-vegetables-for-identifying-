@@ -1,1 +1,1 @@
-# Smart-sorting-transfer-learning-rotten-fruits-and-vegetables-for-identifying-
+smart sorting transfer learning for identifying rotten fruits and vegitables
